@@ -1,0 +1,12 @@
+{
+  "platform": "v19-ASPE",
+  "releaseType": "github-ready",
+  "workPackages": "edro-aspe-es",
+  "workPackagesFinalPending": false,
+  "workPackageCount": 7,
+  "edroAspeTaskCount": 27,
+  "entry": "index.html",
+  "documents": {
+    "pdf": "docs/Work_Plan_EDRO_ASPE_RMob_TraceLoop_ES.pdf"
+  }
+}
