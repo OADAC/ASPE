@@ -1,0 +1,10 @@
+{
+  "name": "r-mob-traceloop-edro-aspe-platform",
+  "version": "20.0.0",
+  "private": true,
+  "description": "Publicación estática EDRO/Aspe de la plataforma LIFE R-Mob TraceLoop",
+  "scripts": {
+    "prepare:docs": "node scripts/externalize-doc-downloads.mjs",
+    "check": "node scripts/check-release.mjs"
+  }
+}

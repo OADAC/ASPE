@@ -1,0 +1,19 @@
+{
+  "platform": "v21-ASPE-MUNICIPAL",
+  "releaseType": "github-ready",
+  "workPackages": "edro-aspe-es",
+  "workPackagesFinalPending": false,
+  "workPackageCount": 7,
+  "edroAspeTaskCount": 27,
+  "entry": "index.html",
+  "documents": {
+    "pdf": "docs/Work_Plan_EDRO_ASPE_RMob_TraceLoop_ES.pdf",
+    "technicalNote": "docs/ACTUALIZACION_DEMOSTRADORES_ASPE_2026-09-03.md"
+  },
+  "confirmedScopeDate": "2026-09-03",
+  "quantifiedAreaM2": 1079,
+  "referenceReaders": 31,
+  "additionalSensorCount": "pending-engineering",
+  "municipalPrototype": "integrated-demonstrators-v21",
+  "previousVersionPreserved": true
+}
